@@ -1,0 +1,5 @@
+{
+    "name": "Drupal 9",
+    "dockerFile": "../Dockerfile",
+    "forwardPorts": [80]
+  }
